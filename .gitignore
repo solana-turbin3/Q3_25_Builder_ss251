@@ -1,0 +1,18 @@
+# Local development files
+/Cargo.toml
+/Cargo.lock
+CLAUDE.md
+
+# Build artifacts
+target/
+node_modules/
+
+# Keys and env files
+*wallet*.json
+*wallet.json
+*.keypair
+.env
+.env.*
+
+# OS files
+.DS_Store
