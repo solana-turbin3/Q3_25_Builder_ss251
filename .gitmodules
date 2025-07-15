@@ -1,3 +1,6 @@
 [submodule "solana-starter"]
 	path = solana-starter
 	url = https://github.com/ss251/solana-starter
+[submodule "anchor-vault-q3-2025"]
+	path = anchor-vault-q3-2025
+	url = https://github.com/ss251/anchor-vault-q3-2025.git
