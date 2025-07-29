@@ -4,3 +4,6 @@
 [submodule "anchor-vault-q3-2025"]
 	path = anchor-vault-q3-2025
 	url = https://github.com/ss251/anchor-vault-q3-2025.git
+[submodule "anchor-escrow"]
+	path = anchor-escrow
+	url = https://github.com/ss251/anchor-escrow.git
