@@ -7,3 +7,6 @@
 [submodule "anchor-escrow"]
 	path = anchor-escrow
 	url = https://github.com/ss251/anchor-escrow.git
+[submodule "SolSplits"]
+	path = SolSplits
+	url = https://github.com/ss251/SolSplits.git
