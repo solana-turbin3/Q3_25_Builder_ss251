@@ -16,3 +16,6 @@
 [submodule "nft-staking"]
 	path = nft-staking
 	url = https://github.com/ss251/nft-staking
+[submodule "nft-marketplace"]
+	path = nft-marketplace
+	url = https://github.com/ss251/nft-marketplace
