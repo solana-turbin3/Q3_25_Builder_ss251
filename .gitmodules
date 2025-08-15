@@ -10,3 +10,6 @@
 [submodule "SolSplits"]
 	path = SolSplits
 	url = https://github.com/ss251/SolSplits.git
+[submodule "anchor-amm"]
+	path = anchor-amm
+	url = https://github.com/ss251/anchor-amm
